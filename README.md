@@ -9,7 +9,7 @@ apt install docker.io
 # Finding process
 ALL process
 ```
-docker ps -a
+docker ps
 ```
 RUNNING process
 ```
